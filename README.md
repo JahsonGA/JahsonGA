@@ -1,23 +1,28 @@
 <h1 align="center">Hi 👋, I'm Jahson Gonzalez-Allie</h1>
 <h3 align="center">A passionate Network Engineer and Software developer</h3>
 
-- 🔭 I’m currently working on Keep an eye out 👀 #[comment]: <> ([FVTT Spell Effects and Macro](Keep an eye out 👀))
+- 🔭 I’m currently working on Keep an eye out 👀
+#[comment]: <> ([FVTT Spell Effects and Macro](Keep an eye out 👀))
 
 - 🌱 I’m currently learning **Frameworks and Application Development**
 
-- 👯 I’m looking to collaborate on N/A #[comment]: <> ([N/A](N/A))
+- 👯 I’m looking to collaborate on N/A
+[comment]: <> ([N/A](N/A))
 
-- 🤝 I’m looking for help with N/A #[comment]: <> ([N/A](N/A))
+- 🤝 I’m looking for help with N/A
+[comment]: <> ([N/A](N/A))
 
 - 👨‍💻 All of my projects are available at [https://github.com/JahsonGA?tab=repositories](https://github.com/JahsonGA?tab=repositories)
 
-- 📝 I regularly write articles on Keep an eye out 👀[comment]: <> ([Keep an eye out 👀](Keep an eye out 👀))
+- 📝 I regularly write articles on Keep an eye out 👀
+[comment]: <> ([Keep an eye out 👀](Keep an eye out 👀))
 
 - 💬 Ask me about **css, html, or openCV**
 
 - 📫 How to reach me **jgonzalezallie@gmail.com**
 
-- 📄 Know about my experiences [comment]: <> ([Keep an eye out 👀](Keep an eye out 👀))
+- 📄 Know about my experiences
+[comment]: <> ([Keep an eye out 👀](Keep an eye out 👀))
 
 - ⚡ Fun fact **Programmer imposter syndrome and superiority complex is real**
 
