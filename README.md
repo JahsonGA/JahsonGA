@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <!---
-  NOTE: because the div is centered adding new elements will auto-align to the center
+  NOTE: because the div is centered, adding new elements will auto-align to the center
   <a href = "hyperlink here" target = "_blank" rel = "noopener noreferrer">
     <img src = "link" hight = "25" alt = "image alt text"/>
 </a>
@@ -21,13 +21,17 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jahsonga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <!---
-  NOTE Trohies when I have more trophies
+  NOTE Trophies when I have more trophies
   <img src="https://github-profile-trophy.vercel.app?username=jahsonga&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   -->
 </div>
 
 ###
 
+ <!---
+  NOTE Pacman Game of commits
+  -->
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahsonga/jahsonga/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahsonga/jahsonga/output/pacman-contribution-graph.svg">
