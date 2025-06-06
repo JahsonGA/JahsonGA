@@ -7,10 +7,23 @@
   <a href="https://www.linkedin.com/in/jahson-gonzalez-allie-597630220/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
+  <!---
+  NOTE: because the div is centered adding new elements will auto-align to the center
+  <a href = "hyperlink here" target = "_blank" rel = "noopener noreferrer">
+    <img src = "link" hight = "25" alt = "image alt text"/>
+</a>
+  -->
+
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
 
 - 🔭 I’m currently working on FVTT Spell Effects and Macros
 
