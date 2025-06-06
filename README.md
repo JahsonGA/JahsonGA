@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Jahson Gonzalez-Allie</h1>
 <h3 align="center">A passionate Network Engineer and Software developer</h3>
 
-- 🔭 I’m currently working on Keep an eye out 👀
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
+
+
+- 🔭 I’m currently working on FVTT Spell Effects and Macros
 
 <!---
 ([FVTT Spell Effects and Macro](Keep an eye out 👀))
@@ -16,7 +29,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JahsonGA?tab=repositories](https://github.com/JahsonGA?tab=repositories)
 
-- 📝 I regularly write articles on Keep an eye out 👀
+- 📝 I regularly write articles on, check back later 👀
 
 - 💬 Ask me about **css, html, or openCV**
 
