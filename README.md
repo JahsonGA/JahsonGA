@@ -59,8 +59,6 @@
 
 - 💬 Ask me about **css, html, or openCV**
 
-- 📫 How to reach me **jgonzalezallie@gmail.com**
-
 - 📄 Know about my experiences [Resume 📩](https://docs.google.com/document/d/e/2PACX-1vTdrX_TkcA8Pmqipdwyb3P8354wJqq2us1k-qu30xvYPwuNPC0wGXgQV-8cNOfGG61YfJV2__9qdkhp/pub)
 
 - ⚡ Fun fact **Programmer mood swings between imposter syndrome, and superiority complex are crazy**
