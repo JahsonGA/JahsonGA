@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Network Engineer and Software developer</h3>
 
 - 🔭 I’m currently working on Keep an eye out 👀
-#[comment]: <> ([FVTT Spell Effects and Macro](Keep an eye out 👀))
+
+[comment]: # ([FVTT Spell Effects and Macro](Keep an eye out 👀))
 
 - 🌱 I’m currently learning **Frameworks and Application Development**
 
