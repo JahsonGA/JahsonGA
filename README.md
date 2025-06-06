@@ -71,17 +71,17 @@
   -->
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,php,javascript,html,css,bash" height="40" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,php,js,html,css,bash" height="40" alt="languages" />
 </p>
 
 <h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,unity,opencv,scikit-learn,tensorflow,pandas,dotnet" height="40" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,unity,opencv,sklearn,tensorflow,dotnet" height="40" alt="frameworks" />
 </p>
 
 <h3 align="left">Tools & Platforms</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,figma,blender,photoshop,azure,aws,gcp,vscode" height="40" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,figma,blender,ps,azure,aws,gcp,vscode,gtk,matlab" height="40" alt="tools" />
 </p>
 
 <h3 align="left">Databases</h3>
@@ -94,12 +94,4 @@
   <img src="https://skillicons.dev/icons?i=arduino,android" height="40" alt="hardware" />
 </p>
 
-<h3 align="left">Other</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gtk" height="40" alt="other tools" />
-</p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahsonga&show_icons=true&locale=en&layout=compact" alt="jahsonga" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahsonga&" alt="jahsonga" /></p>
+###
