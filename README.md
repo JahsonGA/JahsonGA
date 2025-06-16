@@ -51,13 +51,13 @@
 
 - 👯 I’m looking to collaborate on N/A
 
-- 🤝 I’m looking for help with N/A
+- 🤝 I’m looking for help with Foundry Spell and Macros
 
 - 👨‍💻 All of my projects are available at [https://github.com/JahsonGA?tab=repositories](https://github.com/JahsonGA?tab=repositories)
 
 - 📝 I regularly write articles on, check back later 👀
 
-- 💬 Ask me about **css, html, or openCV**
+- 💬 Ask me about **css, html, java, or openCV**
 
 - 📄 Know about my experiences [Resume 📩](https://docs.google.com/document/d/e/2PACX-1vTdrX_TkcA8Pmqipdwyb3P8354wJqq2us1k-qu30xvYPwuNPC0wGXgQV-8cNOfGG61YfJV2__9qdkhp/pub)
 
