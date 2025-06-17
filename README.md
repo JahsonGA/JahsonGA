@@ -51,7 +51,7 @@
 
 <!--- 👯 Collaborate on N/A-->
 
-- Developing Foundry Spell and Macros
+- Developing Spells and Macros for the Foundry virtual tabletop simulator
 
 - All of my projects are available at [https://github.com/JahsonGA?tab=repositories](https://github.com/JahsonGA?tab=repositories)
 
