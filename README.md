@@ -40,16 +40,16 @@
 
 ###
 
-- 🔭 I’m currently working on [socketlib-token-mover](https://github.com/JahsonGA/socketlib-token-mover)
+- 🔭 Developing [socketlib-token-mover](https://github.com/JahsonGA/socketlib-token-mover)
 
 <!---
 ([FVTT Spell Effects and Macro](Keep an eye out 👀))
               ^^ alt name              ^^ link
 -->
 
-- 🌱 I’m currently learning **Frameworks and Application Development**
+- 🌱 Researching **Frameworks and Application Development**
 
-- 👯 I’m looking to collaborate on N/A
+<!--- 👯 Collaborate on N/A-->
 
 - 🤝 I’m looking for help with Foundry Spell and Macros
 
