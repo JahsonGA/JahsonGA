@@ -40,28 +40,28 @@
 
 ###
 
-- 🔭 Developing [socketlib-token-mover](https://github.com/JahsonGA/socketlib-token-mover)
+- Developing [socketlib-token-mover](https://github.com/JahsonGA/socketlib-token-mover)
 
 <!---
 ([FVTT Spell Effects and Macro](Keep an eye out 👀))
               ^^ alt name              ^^ link
 -->
 
-- 🌱 Researching **Frameworks and Application Development**
+- Researching **Frameworks and Application Development**
 
 <!--- 👯 Collaborate on N/A-->
 
-- 🤝 I’m looking for help with Foundry Spell and Macros
+- I’m looking for help with Foundry Spell and Macros
 
-- 👨‍💻 All of my projects are available at [https://github.com/JahsonGA?tab=repositories](https://github.com/JahsonGA?tab=repositories)
+- All of my projects are available at [https://github.com/JahsonGA?tab=repositories](https://github.com/JahsonGA?tab=repositories)
 
-- 📝 I regularly write articles on, check back later 👀
+<!--- I regularly write articles on, check back later 👀-->
 
-- 💬 Ask me about **css, html, java, or openCV**
+- Ask me about **css, html, java, or openCV**
 
-- 📄 Know about my experiences [Resume 📩](https://docs.google.com/document/d/e/2PACX-1vTdrX_TkcA8Pmqipdwyb3P8354wJqq2us1k-qu30xvYPwuNPC0wGXgQV-8cNOfGG61YfJV2__9qdkhp/pub)
+- Know about my experiences [Resume 📩](https://docs.google.com/document/d/e/2PACX-1vTdrX_TkcA8Pmqipdwyb3P8354wJqq2us1k-qu30xvYPwuNPC0wGXgQV-8cNOfGG61YfJV2__9qdkhp/pub)
 
-- ⚡ Fun fact **Programmer mood swings between imposter syndrome, and superiority complex are crazy**
+<!--- ⚡ Fun fact **Programmer mood swings between imposter syndrome, and superiority complex are crazy**-->
 
 ###
 <!---
