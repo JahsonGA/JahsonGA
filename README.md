@@ -57,7 +57,7 @@
 
 <!--- I regularly write articles on, check back later 👀-->
 
-- Ask me about **css, html, java, or openCV**
+- Ask me about **css, html, java, or Computer Vision**
 
 - Learn about my experiences [Resume 📩](https://docs.google.com/document/d/e/2PACX-1vTdrX_TkcA8Pmqipdwyb3P8354wJqq2us1k-qu30xvYPwuNPC0wGXgQV-8cNOfGG61YfJV2__9qdkhp/pub)
 
