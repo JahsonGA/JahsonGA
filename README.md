@@ -49,7 +49,7 @@
 
 - Researching **Frameworks and Application Development**
 
-<!--- 👯 Collaborate on N/A-->
+- Collaborate with Business Actualization
 
 - Developing Spells and Macros for the Foundry virtual tabletop simulator
 
@@ -59,7 +59,7 @@
 
 - Ask me about **css, html, java, or Computer Vision**
 
-- Learn about my experiences [Resume 📩](https://docs.google.com/document/d/e/2PACX-1vTdrX_TkcA8Pmqipdwyb3P8354wJqq2us1k-qu30xvYPwuNPC0wGXgQV-8cNOfGG61YfJV2__9qdkhp/pub)
+- Learn about my experiences [Resume 📩](https://docs.google.com/document/d/19vgzUa9AonvvwCFxXZQouDjRiDfriAimrgrzyeB1j8Q/edit?usp=sharing)
 
 <!--- ⚡ Fun fact **Programmer mood swings between imposter syndrome, and superiority complex are crazy**-->
 
