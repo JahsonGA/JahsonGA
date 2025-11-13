@@ -59,7 +59,7 @@
 
 - Ask me about **css, html, java, or Computer Vision**
 
-- Learn about my experiences [Resume 📩](https://docs.google.com/document/d/19vgzUa9AonvvwCFxXZQouDjRiDfriAimrgrzyeB1j8Q/edit?usp=sharing)
+- Learn about my experiences [Resume](https://docs.google.com/document/d/19vgzUa9AonvvwCFxXZQouDjRiDfriAimrgrzyeB1j8Q/edit?usp=sharing)
 
 <!--- ⚡ Fun fact **Programmer mood swings between imposter syndrome, and superiority complex are crazy**-->
 
